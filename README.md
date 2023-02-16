@@ -10,8 +10,8 @@ To practice server deployment
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
-- [back-end server url]()
+- [GitHub Actions ci/cd](https://github.com/j-davitt/basic-api-server/actions)
+- [back-end server url](https://basic-api-server-8oo5.onrender.com)
 
 
 ### Setup
@@ -40,4 +40,6 @@ for now I have none and do not require one
 
 #### UML
 
-![Lab 3]()
+Built with Ryan's UML
+
+![Lab 3](./assets/lab3.png)
