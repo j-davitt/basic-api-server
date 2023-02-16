@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config();
 const express = require('express');
 const errorHandler = require('./error-handlers/500');
 const notFound = require('./error-handlers/404');
