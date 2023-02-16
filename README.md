@@ -18,7 +18,7 @@ To practice server deployment
 
 #### `.env` requirements (where applicable)
 
-for now I have none and do not require one
+DATABASE_URL=postgres://localhost:5432/api-app
 
 
 #### How to initialize/run your application (where applicable)
